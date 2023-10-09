@@ -28,10 +28,10 @@ Step3 作成したアカウントのユーザー名をhttps://twitter.com/plu_ar
 Step4 招待メールが届いたら参加できます。
 
 # 使い方
-現在進行中のプロジェクトは（https://github.com/orgs/plusonica-archives/projects/1）に記載しています。
+現在進行中のプロジェクトは（https://github.com/orgs/plusonica-archives/projects/1 ）に記載しています。
 自分にも参加できそうな項目がありましたら、ぜひやってみて欲しいです。
 
-相談したいことや質問がありましたら（https://github.com/orgs/plusonica-archives/discussions）に、その内容を投稿してみてください。
+相談したいことや質問がありましたら（https://github.com/orgs/plusonica-archives/discussions ）に、その内容を投稿してみてください。
 投稿する際は@をつけてメンションしてください。メンションしないとメール通知が届かないので誰も気づきません。
 回答は誰でも自由にしてください。
 
